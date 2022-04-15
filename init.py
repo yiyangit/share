@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import os
 import sys
 sys.stdout = open("D:/share/lists.html",mode='w');
